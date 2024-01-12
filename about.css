@@ -1,0 +1,143 @@
+
+#title {
+    background-color:#e3feae;
+    color:#000000;
+    }
+  body{
+      font-family: 'Montserrat', sans-serif;
+    }
+    /* heading */
+  h1{
+    padding-top: 120px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 4rem;
+    line-height: 1.4;
+    }
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:800;
+    }
+  h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+  }
+  p{
+    color: #8f8f8f;
+  }
+  hr{
+    border: 10px solid green;
+  border-radius: 5px;
+  }
+  .why{
+    
+    font-size: 70px;
+    margin-left: 20px;
+  }
+
+  .why1{
+    
+    font-size: 70px;
+  }
+  .image2{
+    width: 500px; 
+  }
+
+  .image3{
+    width: 500px; 
+    margin-left: 20px;
+  }
+
+
+  .container{
+    
+    
+      display: grid;
+    
+      grid-template-columns: 1fr 1fr 1fr;
+      column-gap: 2
+  }
+  .container2{
+    
+    display: grid;
+  
+    grid-template-columns:1fr 1fr 1fr;
+    column-gap: 20px;
+}
+
+  .fan{
+    text-align: center;
+    padding: 0;
+  }
+  .heading{
+  padding-left: 8%;
+  padding-bottom: 2%;
+  font-size: 8rem;
+  text-align:left;
+  }
+   
+  #abt{
+    text-align: center;
+    padding: 0% 15% 8% 15%;
+  }
+  
+ .image1{
+    
+      width: 1300px;
+      
+  }
+
+
+
+  #features{
+  padding: 7% 5% ;
+  }
+  .feature-box{
+    text-align:center;
+    display: inline-block;
+  }
+  .icon{
+  color: #64BE09;
+  margin-bottom: 1rem;
+   }
+   .icon:hover{
+     color: #548325;
+   }
+  .testimonial-image{
+    width: 15%;
+    margin:20px;
+  }
+
+  .carousel-item{
+    padding:10% 10%;
+  }
+  
+  .pricing-column{
+    padding:2% 2%;
+  }
+  .btn{
+    height: 50px;
+    width: 240px;
+  }
+  
+  
+ 
+  
+
+  .down{
+    padding:4% 4%;
+  }
+  .social-icon{
+    margin: 20px;
+  }
+  
+  
+  
+  
+  #footer{
+  background-color: #e3feae;
+  color: black;
+  padding: 6% 6%;
+  text-align:center;
+  
+  }
+  
